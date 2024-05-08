@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\bin\Debug\ora = 2604.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\bin\Debug\ora = 2604.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\bin\Debug\ora = 2604.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\obj\Debug\ora = 2604.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\obj\Debug\ora = 2604.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\obj\Debug\ora = 2604.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\ora = 2604\ora = 2604\obj\Debug\ora = 2604.pdb
