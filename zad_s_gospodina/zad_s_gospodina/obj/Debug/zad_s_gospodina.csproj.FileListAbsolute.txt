@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\bin\Debug\zad_s_gospodina.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\bin\Debug\zad_s_gospodina.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\bin\Debug\zad_s_gospodina.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\obj\Debug\zad_s_gospodina.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\obj\Debug\zad_s_gospodina.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\obj\Debug\zad_s_gospodina.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\zad_s_gospodina\zad_s_gospodina\obj\Debug\zad_s_gospodina.pdb
