@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\bin\Debug\2102.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\bin\Debug\2102.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\bin\Debug\2102.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\obj\Debug\2102.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\obj\Debug\2102.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\obj\Debug\2102.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2102\2102\obj\Debug\2102.pdb
