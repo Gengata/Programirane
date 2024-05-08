@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\bin\Debug\2302.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\bin\Debug\2302.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\bin\Debug\2302.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\obj\Debug\2302.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\obj\Debug\2302.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\obj\Debug\2302.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\2302\2302\obj\Debug\2302.pdb
