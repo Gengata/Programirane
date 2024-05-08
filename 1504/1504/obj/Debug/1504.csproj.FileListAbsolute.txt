@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\bin\Debug\1504.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\bin\Debug\1504.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\bin\Debug\1504.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\obj\Debug\1504.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\obj\Debug\1504.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\obj\Debug\1504.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1504\1504\obj\Debug\1504.pdb
