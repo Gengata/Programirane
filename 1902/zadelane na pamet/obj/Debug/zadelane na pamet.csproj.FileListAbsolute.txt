@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\bin\Debug\zadelane na pamet.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\bin\Debug\zadelane na pamet.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\bin\Debug\zadelane na pamet.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\obj\Debug\zadelane na pamet.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\obj\Debug\zadelane na pamet.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\obj\Debug\zadelane na pamet.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\zadelane na pamet\obj\Debug\zadelane na pamet.pdb

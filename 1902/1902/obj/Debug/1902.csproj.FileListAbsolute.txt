@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\bin\Debug\1902.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\bin\Debug\1902.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\bin\Debug\1902.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\obj\Debug\1902.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\obj\Debug\1902.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\obj\Debug\1902.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\1902\1902\obj\Debug\1902.pdb
