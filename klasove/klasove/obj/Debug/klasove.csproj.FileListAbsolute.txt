@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\bin\Debug\klasove.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\bin\Debug\klasove.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\bin\Debug\klasove.pdb
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\obj\Debug\klasove.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\obj\Debug\klasove.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\obj\Debug\klasove.exe
+C:\Users\STUDENTS-1409-2\Desktop\papkata na genata\klasove\klasove\obj\Debug\klasove.pdb
